@@ -1,0 +1,147 @@
+.bodydiv{
+    background-image: url(https://tinyhorse.com/wp-content/uploads/2019/04/tiny-horse-marketing-agency-header.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    min-height: 100%;
+}
+.bg-light2 {
+    background-color: transparent;
+}
+div .logo {
+    float: left;
+    position: absolute;
+    left: 0;
+    z-index: 1;
+}
+.logo, .logo a {
+    overflow: hidden;
+    position: relative;
+    display: block;
+    height: 100%;
+
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+html, body, div, nav {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+.navbar {
+    position: absolute !important;
+    background: transparent;
+}
+.nav-link {
+    color: white !important;
+}
+.dropdown-menu {
+    background-color: #212326 !important;
+}
+.dropdown-menu a {
+    color: white !important;
+}
+.dropdown-menu a:hover {
+    background-color: #5c7c91;
+}
+
+.container {
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0px 50px;
+    clear: both;
+}
+
+.menu {
+    clear: none;
+    z-index: 50;
+    line-height: 30px;
+    height: 100%;
+    margin: 0;
+    right: 0;
+    background: transparent;
+}
+
+.main {
+    min-height: 90%;
+    justify-content: center;
+    align-items: center;
+}
+.mainheading {
+    color: white;
+}
+
+.section2 {
+    background-image: url(https://tinyhorse.com/wp-content/uploads/2019/04/Tiny-Horse-Agency-Gradient.jpg);
+    background-repeat: no-repeat;     
+    background-attachment: scroll; 
+    background-position: center center;
+    min-height: 126px;
+    width: 100%;
+}
+
+.section3 {
+    background-color: #f4eae9;
+    font-family: serif;
+    padding-bottom: 3em;
+}
+.text1 {
+    padding-top: 4em;
+    padding-bottom: 3em;
+}
+
+.section4 {
+    background-color: white;
+    font-family: serif;
+}
+.section4 .card {
+    height: 400px;
+}
+.section4 .row {
+    padding: 4em 0;
+}
+
+.section5 {
+    background-image: url(https://tinyhorse.com/wp-content/uploads/2019/04/Tiny-Horse-Marketing-Agency-Contact.jpg);
+    background-repeat: no-repeat;     
+    background-attachment: scroll; 
+    background-position: center center;
+    width: 100%;
+    color: white;
+    padding-top: 4em;
+}
+.section5 .row {
+    padding-bottom: 2em;
+}
+
+.footerdiv {
+    background-color: #212326;
+    color: white;
+    font-family: serif;
+}
+.footerdiv .row {
+    padding: 4em 0;
+}
+
+footer {
+    background-color: #212326;
+    font-family: serif;
+    color: #5c7c91;
+}
+footer .row {
+    padding-bottom: 1em;
+}
+footer a {
+    text-decoration: none;
+    color: #5c7c91;
+}
